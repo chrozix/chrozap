@@ -1,4 +1,4 @@
-const CACHE_NAME = 'seraph-cache';
+const CACHE_NAME = 'chro-cache';
 const OFFLINE_URLS = [
     '/offline.html',
 ];
